@@ -1,5 +1,3 @@
-# xerone2.github.io
-
 ---
 layout: default
 title: Home
