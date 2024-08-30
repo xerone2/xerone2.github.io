@@ -1,1 +1,5 @@
-theme: jekyll-theme-caymantitle: "Your Name's Portfolio"description: "Showcasing my projects and skills in IT Security."
+title: "Your Portfolio"
+description: "Showcasing my projects and skills in IT Security."
+theme: jekyll-theme-cayman
+github_username: your-github-username
+linkedin_username: your-linkedin-username
