@@ -3,7 +3,6 @@ layout: default
 title: Home
 ---
 
-# Welcome to My Portfolio
 Hi! I'm Ankit Kumar, a cybersecurity enthusiast driven by a passion for safeguarding digital landscapes. I excel at quickly mastering new technologies and applying them to solve complex security challenges, always aiming to stay ahead of evolving threats.
 
 ## Projects
