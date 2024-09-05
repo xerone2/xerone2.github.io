@@ -8,13 +8,13 @@ Hi! I'm **Ankit Kumar**, a cybersecurity enthusiast driven by a passion for safe
 ## Projects
 - **[SOC Automation](https://github.com/xerone2/SOC-Automation/tree/main):** Implemented a comprehensive SOAR solution using Wazuh, TheHive, and Shuffle to automate security operations and improve response times.
 - **[Password Manager](https://github.com/xerone2/Vault-Of-Codes/tree/main/MySQL%20Password%20Manager):** Python Password Manager is designed with a focus on user data security, employing advanced hashing and encryption techniques to safeguard personal information.
+- **[Validate Email(s)](https://github.com/xerone2/Validate-Email):**
+    - A python script that utilizes the Cloudmersive Validate API to validate email addresses for it's authenticity.
 - **Security Risk and Incident assessment:**
     - Firewall Maintenance, Enforcing password policies, and Enforcing MFA.
     - Incident reports on DDoS attack and packet sniffing.
 - **Security Audit:**
     - Adhere to the NIST CSF, Fortify system controls, Adapt to the concept of least permissions, Maintaining compliance requirements.
-- **[Validate Email(s)](https://github.com/xerone2/Validate-Email):**
-    - A python script utilizes the Cloudmersive Validate API to validate email addresses for their authenticity.
 
 
 [Visit GitHub for More](https://github.com/xerone2)
@@ -27,5 +27,6 @@ Hi! I'm **Ankit Kumar**, a cybersecurity enthusiast driven by a passion for safe
 - Tools: Git, ZAP, Splunk, Suricata, Chronicle, Azure, Microsoft Defender
 
 ## Contact
-- [LinkedIn](https://www.linkedin.com/in/ankitkrx)
-- [Email](mailto:mankitverma21@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ankitkrx)
+
+[Email](mailto:mankitverma21@gmail.com)
