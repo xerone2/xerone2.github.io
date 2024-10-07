@@ -7,6 +7,7 @@ Hi! I'm **Ankit Kumar**, a cybersecurity enthusiast driven by a passion for safe
 
 ## Projects
 - **[SOC Automation](https://github.com/xerone2/SOC-Automation/tree/main):** Implemented a comprehensive SOAR solution using Wazuh, TheHive, and Shuffle to automate security operations and improve response times.
+- **[ELK Stack](https://github.com/xerone2/ELK-stack):** This project leverages the ELK (Elasticsearch, Logstash, Kibana) stack and Fleet agents to monitor and analyze logs from both Linux and Windows servers.
 - **[Password Manager](https://github.com/xerone2/Vault-Of-Codes/tree/main/MySQL%20Password%20Manager):** Python Password Manager is designed with a focus on user data security, employing advanced hashing and encryption techniques to safeguard personal information.
 - **[Validate Email(s)](https://github.com/xerone2/Validate-Email):**
     - A python script that utilizes the Cloudmersive Validate API to validate email addresses for it's authenticity.
@@ -24,7 +25,7 @@ Hi! I'm **Ankit Kumar**, a cybersecurity enthusiast driven by a passion for safe
 - Security Operations Centre
 - Network Security
 - Vulnerability assessment & Penetration Testing
-- Tools: Git, ZAP, Splunk, Suricata, Chronicle, Azure, Microsoft Defender
+- Tools: Git, ZAP, Splunk, Suricata, Chronicle, Azure, Microsoft Defender, Elastic
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/ankitkrx)
